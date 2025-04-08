@@ -65,8 +65,18 @@ Hosted a **highly available and scalable web application** on AWS using best pra
 - Deployed the entire solution in a **secure VPC** for enhanced security and network control.
 - 🛠️ *AWS (EC2, ALB, RDS, Auto Scaling, VPC), Linux, MySQL, Cloud Architecture*
 
+---
+
+## 🧪 Research
+
+**Advancing Machine and Human Reasoning Lab**, University of South Florida, Tampa, FL  
+
+- Collaborated on AI reasoning research with a focus on **Pepper** and **Misty** humanoid robots.
+- Engineered **Pepper** for **medical deployment** to enhance patient interactions, improve communication, and ensure compliance with healthcare standards.
+- Gained hands-on experience with **robotics**, **human-computer interaction**, and **AI-driven medical assistance systems**.
 
 ---
+
 
 ## 🏆 Certifications
 

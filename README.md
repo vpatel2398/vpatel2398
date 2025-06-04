@@ -23,7 +23,32 @@ I'm a results-driven **AI Engineer** with hands-on experience in building and de
 **Dev Tools:** Git, VS Code, RESTful APIs 
 
 ---
+## 💼 Experience
 
+🔹 AI Developer  
+**Semper8 International Inc., Toronto, ON, CAN**  
+📅 *Sept 2023 – Dec 2023*  
+Developed deep learning and NLP models for emotion recognition and benchmarked AI architectures for real-world language tasks.
+
+- Built and optimized multi-class emotion classifiers using **TensorFlow Sequential** and advanced NLP techniques.  
+- Benchmarked and compared transformer models like **BERT**, **RoBERTa**, **T5**, and **GPT** for classification, summarization, and sentiment analysis.  
+- Designed data pipelines with **hyperparameter tuning** to accelerate training and improve inference accuracy.  
+- 🛠️ *Python, TensorFlow, BERT, GPT, NLP, Model Benchmarking, Deep Learning*
+
+---
+
+🔹 Business System & Data Analyst  
+**VYANA, Toronto, ON, CAN**  
+📅 *Sept 2022 – Sept 2023*  
+Led cross-functional data initiatives, retail analytics, and education performance studies to drive business insights and strategic decisions.
+
+- Executed a Retail Sales Optimization project: cleaned **Superstore** datasets, fixed 500+ issues, and built 15+ **Tableau dashboards**, increasing forecast accuracy by 20%.  
+- Performed **EDA** and segmentation to identify 4 key customer clusters, driving a 12% uplift in marketing campaign performance.  
+- Delivered 20+ financial/operations reports using **geospatial analysis** and KPIs, contributing to a 15% rise in regional sales.  
+- Analyzed Ontario education board data, highlighting disparities via **clustering and correlation**, informing policy recommendations.  
+- 🛠️ *SQL, Tableau, Power BI, Python, EDA, Customer Segmentation, Education Analytics, Data Cleaning*
+
+---
 ## 🚀 Projects
 
 🔹 **Medical Prescription NLP Classifier**  

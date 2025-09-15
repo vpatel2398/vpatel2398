@@ -90,15 +90,67 @@ Hosted a **highly available and scalable web application** on AWS using best pra
 - Deployed the entire solution in a **secure VPC** for enhanced security and network control.
 - 🛠️ *AWS (EC2, ALB, RDS, Auto Scaling, VPC), Linux, MySQL, Cloud Architecture*
 
+🔹 **Facial Recognition & Demographic Prediction**
+Created a computer vision model to recognize faces and predict demographic attributes.
+
+- Built CNN models to classify age and gender from image datasets.
+- Used KNN and Naïve Bayes classifiers as baselines for comparison.
+- Preprocessed and balanced image datasets for higher training efficiency.
+🛠️ Python, CNN, KNN, Naïve Bayes, Deep Learning, Computer Vision
+
+🔹 **Computer Vision Applications**
+Developed multiple CV pipelines for image recognition, estimation, and geometry analysis.
+
+- **Transformation:** Built system to transform and classify objects in images.
+- **Estimation:** Compared two images using feature matching to estimate similarity.
+- **Multi-Camera Geometry:** Designed pipeline to compute epipolar lines and estimate object height from pixel locations.
+🛠️ Python, OpenCV, Neural Networks, Deep Learning
+
+🔹 **Robotics Motion Planning (UR5 Arm)**
+Implemented robotic motion planning algorithms for industrial UR5 arm simulation.
+
+- Calculated trajectories, Jacobians, and end-effector orientation.
+- Generated random poses and tested reachability within the workspace.
+- Built collision detection and obstacle avoidance system using RRT (Rapidly-exploring Random Tree).
+🛠️ Python, CoppeliaSim, NumPy, Motion Planning, RRT Algorithm
+
+🔹 **Misty & Pepper Robotics Integration**
+Enhanced humanoid robots with AI-driven conversational and assistive capabilities.
+
+- Programmed Misty to provide navigation and receptionist functions.
+- Enabled Pepper to perform temperature screening and customer interaction.
+- Integrated speech recognition, intent detection, and NLP workflows for natural human–robot interaction.
+🛠️ Python, JavaScript, DialogFlow, Google API, Choregraphe, NLP, Robotics
+
+🔹 **Grocery Store Inventory Search/Management**
+Developed a smart retail application for product search and inventory visibility.
+
+- Designed customer interface to display product name, quantity, price, and aisle location.
+- Added features for user login, custom lists, product filtering, and reviews.
+- Integrated Firebase for real-time database updates.
+🛠️ JavaScript, React, Firebase, Figma, Web Development
+
+🔹 **Bookstore Management System**
+Created an online bookstore with search and inventory management features.
+
+- Built customer-facing portal for book search and purchase by category.
+- Developed admin interface to update book inventory in database.
+- Implemented queries for structured database management and reporting.
+🛠️ Python, MySQL, SQLite3, DBMS, Backend Development
+
 ---
 
 ## 🧪 Research
 
-**Advancing Machine and Human Reasoning Lab**, University of South Florida, Tampa, FL  
+🔹 **AI Robotics Research** – Misty & Pepper (AHMR Lab)
+Developed AI-driven systems for humanoid robots Misty and Pepper at the Advancing Machine and Human Reasoning (AHMR) Lab, University of South Florida.
 
-- Collaborated on AI reasoning research with a focus on **Pepper** and **Misty** humanoid robots.
-- Engineered **Pepper** for **medical deployment** to enhance patient interactions, improve communication, and ensure compliance with healthcare standards.
-- Gained hands-on experience with **robotics**, **human-computer interaction**, and **AI-driven medical assistance systems**.
+- Designed conversational AI pipelines enabling temperature checks, receptionist tasks, and customer guidance.
+- Integrated speech recognition, intent classification, and dialogue management for natural human–robot interaction.
+- Applied Python, Google API, and DialogFlow to create partial reasoning systems with ~70% success in multi-robot tasks.
+- Contributed to research in cognitive AI, healthcare robotics, and human–robot collaboration.
+
+🛠️ Python, JavaScript, DialogFlow, Google API, Choregraphe, NLP, Robotics
 
 ---
 

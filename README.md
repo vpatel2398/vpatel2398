@@ -52,29 +52,7 @@ Led cross-functional data initiatives, retail analytics, and education performan
 
 ---
 ## 🚀 Projects
-
-🔹 **Medical Prescription NLP Classifier**  
-Engineered an NLP pipeline for classifying prescription text using **Conditional Random Fields (CRF)** and **spaCy**.
-
-- Extracted entities such as drug name, dosage, and frequency from free text.
-- Trained and tested using domain-specific data from healthcare.
-- 🛠️ *Python, spaCy, CRF, Text Classification, Healthcare NLP*
-
-🔹 **Transformer Model Benchmarking for NLP Tasks**  
-Benchmarked transformer models including **BERT**, **DistilBERT**, **ALBERT**, and **T5** on text classification problems such as fake news detection and sentiment analysis.
-
-- Achieved 76% accuracy classifying COVID-19 tweets using DistilBERT.
-- Evaluated model performance with precision/recall/F1 metrics.
-- 🛠️ *Transformers, Hugging Face, Python, NLP, TensorFlow*
-
-🔹 **AI-Powered Resume Parsing with Named Entity Recognition (NER)**  
-Developed a custom NER model using **spaCy** to extract structured information from resumes including skills, education, work experience, and contact details.
-
-- Preprocessed and labeled resume data in JSON format.
-- Implemented custom parsing logic to extract domain-specific entities.
-- Applied random shuffling and dropout regularization during training.
-- Evaluated model performance and visualized entity recognition using **spaCy's displaCy**.
-- 🛠️ *Python, spaCy, Machine Learning, NLP, Model Evaluation*
+### 🔹 AI & Machine Learning Project
 
 🔹 **AI-Powered Loan Approval System**  
 Built and trained a predictive system to automate loan approvals based on applicant data.
@@ -82,15 +60,14 @@ Built and trained a predictive system to automate loan approvals based on applic
 - Conducted data preprocessing and feature selection using SQL.
 - Applied **SVM**, **Random Forest**, and **Decision Tree** algorithms.
 - Achieved 85% accuracy with hyperparameter optimization.
-- 🛠️ *Python, Scikit-learn, SQL, Data Preprocessing, Classification*
+🛠️ *Python, Scikit-learn, SQL, Data Preprocessing, Classification*
 
-🔹 **Scalable Website Deployment on AWS**  
-Hosted a **highly available and scalable web application** on AWS using best practices for cloud architecture.
+🔹 **Medical Prescription NLP Classifier**  
+Engineered an NLP pipeline for classifying prescription text using **Conditional Random Fields (CRF)** and **spaCy**.
 
-- Deployed the application with **Elastic Load Balancer (ALB)** and **Auto Scaling Groups** to handle dynamic traffic.
-- Utilized **Amazon RDS (MySQL)** for backend database needs.
-- Deployed the entire solution in a **secure VPC** for enhanced security and network control.
-- 🛠️ *AWS (EC2, ALB, RDS, Auto Scaling, VPC), Linux, MySQL, Cloud Architecture*
+- Extracted entities such as drug name, dosage, and frequency from free text.
+- Trained and tested using domain-specific data from healthcare.
+🛠️ *Python, spaCy, CRF, Text Classification, Healthcare NLP*
 
 🔹 **Facial Recognition & Demographic Prediction**
 Created a computer vision model to recognize faces and predict demographic attributes.
@@ -115,6 +92,32 @@ Implemented robotic motion planning algorithms for industrial UR5 arm simulation
 - Generated random poses and tested reachability within the workspace.
 - Built collision detection and obstacle avoidance system using RRT (Rapidly-exploring Random Tree).
 🛠️ Python, CoppeliaSim, NumPy, Motion Planning, RRT Algorithm
+
+🔹 **AI-Powered Resume Parsing with Named Entity Recognition (NER)**  
+Developed a custom NER model using **spaCy** to extract structured information from resumes including skills, education, work experience, and contact details.
+
+- Preprocessed and labeled resume data in JSON format.
+- Implemented custom parsing logic to extract domain-specific entities.
+- Applied random shuffling and dropout regularization during training.
+- Evaluated model performance and visualized entity recognition using **spaCy's displaCy**.
+🛠️ *Python, spaCy, Machine Learning, NLP, Model Evaluation*
+  
+### 🔹 AI Engineering & MLOps Projects
+🔹 **Transformer Model Benchmarking for NLP Tasks**  
+Benchmarked transformer models including **BERT**, **DistilBERT**, **ALBERT**, and **T5** on text classification problems such as fake news detection and sentiment analysis.
+
+- Achieved 76% accuracy classifying COVID-19 tweets using DistilBERT.
+- Evaluated model performance with precision/recall/F1 metrics.
+🛠️ *Transformers, Hugging Face, Python, NLP, TensorFlow*
+
+### 🔹 Full-Stack / Applied AI Projects
+🔹 **Scalable Website Deployment on AWS**  
+Hosted a **highly available and scalable web application** on AWS using best practices for cloud architecture.
+
+- Deployed the application with **Elastic Load Balancer (ALB)** and **Auto Scaling Groups** to handle dynamic traffic.
+- Utilized **Amazon RDS (MySQL)** for backend database needs.
+- Deployed the entire solution in a **secure VPC** for enhanced security and network control.
+🛠️ *AWS (EC2, ALB, RDS, Auto Scaling, VPC), Linux, MySQL, Cloud Architecture*
 
 🔹 **Misty & Pepper Robotics Integration**
 Enhanced humanoid robots with AI-driven conversational and assistive capabilities.

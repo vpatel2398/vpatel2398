@@ -6,7 +6,9 @@ Welcome to my corner of the AI universe! I'm thrilled to have you here. Let's ex
 
 ## 🧠 About Me
 
-I'm a results-driven **AI Engineer** with hands-on experience in building and deploying AI-powered solutions using NLP, deep learning, and cloud-native technologies. I specialize in transforming complex data into intelligent systems with real-world impact.
+I am a motivated and results-driven professional with a strong foundation in data analysis, data engineering, and applied machine learning, now expanding into AI development for real-world business applications. With hands-on experience in Python, SQL, and AWS, I help companies turn raw, messy data into clean pipelines, accurate models, and intelligent insights that drive meaningful decisions.
+
+I specialize in building automated ETL workflows, developing predictive ML models, and integrating AI capabilities—such as LLM-powered automation, classification systems, and API-based AI tools—into business processes.
 
 🎓 Currently based in Toronto, I hold postgraduate certificates in **Data Science** (George Brown College) and **Cloud Computing** (Humber College). I'm passionate about innovating with cutting-edge technologies like **LLMs (BERT, GPT, DistilBERT)**, **Generative AI**, and AI automation to solve impactful problems.
 

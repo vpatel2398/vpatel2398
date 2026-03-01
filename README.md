@@ -1,73 +1,75 @@
 # 🚀 Vivek Patel  
 ### AI Developer | Machine Learning Engineer  
 
-AI Developer with hands-on experience building applied machine learning systems across NLP, audio processing, computer vision, and multimodal architectures.  
+AI Developer with hands-on experience building applied machine learning systems across NLP, audio processing, computer vision, and multimodal architectures.
 
-My work focuses on model development, evaluation rigor, and AI system prototyping.
+My work focuses on transformer fine-tuning, transfer learning, multimodal deep learning systems, and end-to-end ML pipelines.
 
 ---
 
 ## 💼 Professional Experience
 
-### **AI Developer Intern — Semper8 International (Toronto, ON)**  
-**Sept 2023 – Dec 2023**
+### 🧠 AI Developer Intern — Semper8 International  
+**Sept 2023 – Dec 2023 | Toronto, ON**
 
 Contributed to the design and prototyping of an AI-driven candidate assessment system integrating speech emotion recognition and NLP-based contextual analysis.
 
 - Developed CNN-based speech emotion recognition model using RAVDESS, TESS, CREMA-D, and SAVEE datasets (~62% baseline accuracy)
-- Extracted MFCC and spectrogram features for supervised classification
-- Explored CNN-LSTM multimodal architecture combining audio signals with ASR-transcribed text
-- Designed workflow integrating Speech-to-Text (ASR) with transformer-based NLP analysis
-- Built dynamic GUI prototype for dataset upload, retraining, and model versioning
-- Implemented retraining pipeline including preprocessing, stratified splits, feature extraction, and evaluation
+- Extracted MFCC and spectrogram features for supervised emotion classification
+- Designed hybrid multimodal architecture combining audio and textual features
+- Proposed CNN layers for spectrogram-based audio representation
+- Designed LSTM layers for sequential text modeling from ASR transcripts
+- Evaluated feature fusion strategies (concatenation-based integration)
+- Analyzed tradeoffs between early vs late fusion approaches
+- Built dynamic GUI prototype supporting dataset upload, retraining, and model versioning
+- Implemented retraining pipeline with preprocessing, stratified splits, and evaluation
+
+---
+
+### 🤖 Research Assistant — University of South Florida  
+**May 2021 – Aug 2021 | Tampa, FL**
+
+Conducted applied AI research in human–robot interaction systems.
+
+- Designed interactive task workflows for Pepper robot using computer vision and rule-based logic
+- Implemented face detection and human engagement tracking
+- Developed temperature-measurement interaction flow triggered by human detection
+- Integrated Dialogflow NLP platform with Misty robot for intent-based conversational handling
+- Connected Google Speech-to-Text and Text-to-Speech APIs
+- Designed end-to-end conversational pipeline (audio → text → intent → response → speech)
+- Analyzed multi-face detection and system constraints
 
 ---
 
 ## 🔬 Core Technical Focus
 
-- **Transformer Fine-Tuning** – BERT, DistilBERT, ALBERT, T5, Pegasus  
-- **Transfer Learning** – YOLOv5 custom object detection  
-- **Speech & Audio Modeling** – MFCC extraction, spectrogram-based CNN  
-- **Multimodal Deep Learning** – CNN-LSTM (audio + text fusion)  
-- **End-to-End ML Pipelines** – preprocessing → training → evaluation  
+- Transformer Fine-Tuning (BERT, DistilBERT, ALBERT, T5, Pegasus)
+- Transfer Learning with YOLOv5
+- Speech Emotion Recognition (CNN + MFCC)
+- Multimodal Deep Learning (Audio + Text Fusion)
+- End-to-End ML Pipelines (Data → Training → Evaluation)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
 ### 🔹 NLP Transformer Benchmarking
-- Fine-tuned DistilBERT achieving **76% validation accuracy**
+- Fine-tuned DistilBERT achieving 76% validation accuracy
 - Implemented tokenization, attention masks, and stratified train/test splitting
 - Tuned learning rate, batch size, and epochs
 - Benchmarked against SVM and Logistic Regression baselines
 
----
-
 ### 🔹 YOLOv5 Custom Object Detection
-- Prepared dataset in YOLO format with defined train/validation splits
+- Prepared custom dataset in YOLO format
 - Modified `model.yaml` for custom class definitions
 - Fine-tuned Ultralytics YOLOv5 pre-trained weights
 - Evaluated using precision, recall, and mAP metrics
-
----
 
 ### 🔹 Parkinson’s Disease Detection from Voice
 - Extracted MFCC features using Librosa
 - Built SVM and Random Forest classifiers
 - Applied cross-validation and hyperparameter tuning
 - Evaluated using ROC-AUC and F1-score
-
----
-
-## 🧠 Research – Human-Robot Interaction
-
-Explored AI integration with service robotics (Pepper & Misty):
-
-- Designed face-detection and interaction workflows
-- Integrated Dialogflow for intent-based NLP
-- Connected Speech-to-Text and Text-to-Speech APIs
-- Implemented end-to-end conversational pipeline (audio → text → intent → response → speech)
-- Proposed multimodal CNN-LSTM architecture for audio-text fusion
 
 ---
 

@@ -28,6 +28,14 @@ A self-hosted retrieval-augmented generation system over FDA drug labels and Cli
 - **LLM answering** via Groq integration
 - **FastAPI** backend serving the pipeline
 
+### 🧩 Tacit — *Institutional Knowledge Capture (Full-Stack B2B SaaS)*
+
+A B2B SaaS platform that captures a company's institutional knowledge before it walks out the door. An AI interview agent extracts expertise into typed, searchable chunks and serves a Q&A layer with citations, gap detection, and routing to a human when needed.
+
+- **Full-stack build:** Next.js · Supabase / pgvector · Vercel
+- **AI pipeline:** Cloudflare Workers AI embeddings (`bge-small-en-v1.5`) + Groq LLM
+- Interview agent → knowledge extraction → cited Q&A with human routing, plus team, sessions, and dashboard layers
+
 ### 🧠 Parkinson's Disease Detection from Voice — *Deployed*
 
 Speech-based Parkinson's screening model, rebuilt and deployed on **Hugging Face Spaces**.
